@@ -1,0 +1,10 @@
+.sass-cache
+.tmp
+config.json
+node_modules
+#src/libs/components
+/dist
+/jsdocs
+/report
+#main.css
+#src/scripts/txn-initials/initial-template.js
