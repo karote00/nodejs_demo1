@@ -1,0 +1,37 @@
+{
+  "name": "nodejs_demo1",
+  "version": "1.0.0",
+  "description": "nodejs demo1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karote00/nodejs_demo1.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Asa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karote00/nodejs_demo1/issues"
+  },
+  "homepage": "https://github.com/karote00/nodejs_demo1#readme",
+  "dependencies": {
+    "angular2": "2.0.0-beta.7",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.3",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.2",
+    "zone.js": "0.5.15"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "concurrently": "^2.0.0",
+    "lite-server": "^2.1.0"
+  }
+}
